@@ -5,6 +5,7 @@ This project is an end-to-end automated machine learning (AutoML) model that str
 ## Table of Contents
 
 - [Overview](#overview)
+- [Hosting](#hosting)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Contributing](#contributing)
@@ -26,6 +27,12 @@ The AutoML model follows a structured workflow and provides a user-friendly inte
 6. **Model Testing**: Test the best model on a separate test dataset and generate a testing report.
 
 7. **Model Visualization**: Visualize the performance of the best model on training, validation, and test datasets using bar plots for various metrics.
+
+
+## Hosting
+
+https://automatedml-i6676wgyc7bvbz3tqj5gkh.streamlit.app/
+
 
 ## Requirements
 
