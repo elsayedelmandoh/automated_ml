@@ -7,7 +7,7 @@ This project is an end-to-end automated machine learning (AutoML) model that str
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Contributing](#exploratory-data-analysis)
+- [Contributing](#contributing)
 
 ## Overview
 
