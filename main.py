@@ -9,7 +9,7 @@ from model_comparison import train_val_test_split, compare_models, create_report
 from model_testing import test_model
 from model_visualization import plot_model_scores
 from model_saving import save_model 
-from model_deployment import load_model, predict_model, deploy_model
+from model_deployment import load_model, deploy_model
 
 def main():
     """    
