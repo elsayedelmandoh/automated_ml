@@ -9,6 +9,7 @@ This project is an end-to-end automated machine learning (AutoML) model that str
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Contributing](#contributing)
+- [Author](#author)
 
 ## Overview
 
@@ -58,3 +59,6 @@ https://automatedml-i6676wgyc7bvbz3tqj5gkh.streamlit.app/
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
+
+## Author
+  Elsayed Elmandoh : [Linkedin](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/).
