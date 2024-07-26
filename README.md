@@ -1,6 +1,6 @@
 # Automated Machine Learning Model
 
-This project is an end-to-end automated machine learning (AutoML) model that streamlines the process of building, evaluating, and visualizing machine learning models for both classification and regression tasks. It is designed to help users with minimal data science expertise quickly go from raw data to a well-performing machine learning model.
+This project is an end-to-end automated machine learning (AutoML) model that streamlines the process of data acquisition, preprocessing, building, comparison, evaluating, testing, visualizing and saving machine learning models for both classification and regression tasks. It is designed to help users with minimal data science expertise quickly go from raw data to a well-performing machine learning model.
 
 ## Table of Contents
 
@@ -59,8 +59,12 @@ https://automatedml-i6676wgyc7bvbz3tqj5gkh.streamlit.app/
 
 Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback. 
 
+[![GitHub watchers](https://img.shields.io/github/watchers/elsayedelmandoh/automated_ml.svg?style=social&label=Watch)](https://GitHub.com/elsayedelmandoh/automated_ml/watchers/?WT.mc_id=academic-105485-koreyst)
+[![GitHub forks](https://img.shields.io/github/forks/elsayedelmandoh/automated_ml.svg?style=social&label=Fork)](https://GitHub.com/elsayedelmandoh/automated_ml/network/?WT.mc_id=academic-105485-koreyst)
+[![GitHub stars](https://img.shields.io/github/stars/elsayedelmandoh/automated_ml.svg?style=social&label=Star)](https://GitHub.com/elsayedelmandoh/automated_ml/stargazers/?WT.mc_id=academic-105485-koreyst)
+
 ## Author
 
-This repository is maintained by Elsayed Elmandoh, an AI Engineer passionate. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter](https://twitter.com/elsayedelmandoo) for updates and discussions related to Machine learning.
+This repository is maintained by Elsayed Elmandoh, an AI Engineer. You can connect with Elsayed on [LinkedIn and Twitter/X](https://linktr.ee/elsayedelmandoh) for updates and discussions related to Machine learning, deep learning and NLP.
 
-Happy coding and Machine learning!
+Happy coding!
