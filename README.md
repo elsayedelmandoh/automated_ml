@@ -32,7 +32,7 @@ The AutoML model follows a structured workflow and provides a user-friendly inte
 
 ## Hosting
 
-https://automatedml-i6676wgyc7bvbz3tqj5gkh.streamlit.app/
+[Hosting](https://automatedml-i6676wgyc7bvbz3tqj5gkh.streamlit.app/)
 
 
 ## Requirements
